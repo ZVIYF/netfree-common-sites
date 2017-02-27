@@ -292,7 +292,10 @@
     http://www.kupat.org.il/
 
     ועד הרבנים
-    https://www.vaadharabanim.co.il/
+    https://www.vaadharabanim.co.il
+    
+    נדרים פלוס
+    https://matara.pro/
 
 %% קניות ומכירות 
 
